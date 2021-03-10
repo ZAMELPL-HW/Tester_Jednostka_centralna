@@ -1,0 +1,8 @@
+~$*
+*.LOG
+*.html
+*.drc
+/Elektronika/__Previews
+/Elektronika/History
+/Elektronika/Project Outputs for */
+/Elektronika/Project Logs for */
